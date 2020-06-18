@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm curently enrolled in the Data Science Program at BrainStation.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My capstone project seeks to generate a tweet from an input set of emojis. 
 
 ### Contact me
 
